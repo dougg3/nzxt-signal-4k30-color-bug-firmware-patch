@@ -1,0 +1,4 @@
+*.exe
+*.sha256
+# NZXT firmware images (stock or patched) must not be redistributed.
+*.bin
